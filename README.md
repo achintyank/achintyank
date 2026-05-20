@@ -2,15 +2,15 @@
 
 I'm a junior at Mountain House High School, interested in -
 
-• Brain Computer Interfaces\
+• Brain Computer Interfaces
 
-• Robotics & Autonomy\
+• Robotics & Autonomy
 
-• AI/ML\
+• AI/ML
 
-• Frontend + Backend Development\
+• Frontend + Backend Development
 
-• 3D Modeling and Printing\
+• 3D Modeling and Printing
 
 
 
