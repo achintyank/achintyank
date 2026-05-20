@@ -1,4 +1,4 @@
-## Hi there, my name is Achintyan Kaliraj,
+## Hi there, my name is Achintyan Kaliraj
 
 # I'm a junior at Mountain House High School, currently interested and working on -
 
