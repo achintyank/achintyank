@@ -1,6 +1,6 @@
 # Hi there, my name is Achintyan Kaliraj
 
-#I'm a junior at Mountain House High School
+I'm a junior at Mountain House High School
 
 ## Currently Invested In:
 
@@ -25,8 +25,8 @@
   -  
 -  2x TSA Nationals Qualifier
 
-  -  Software Development - 1st place
-  -  Video Game Design - 1st place
+  -  Software Development - 1st place (Nationals Qualifier)
+  -  Video Game Design - 1st place (Nationals Qualifier)
   -  Manufacturing Prototype 2nd place
 
 ## Contact
