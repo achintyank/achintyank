@@ -1,28 +1,34 @@
-## Hi there, my name is Achintyan Kaliraj
+# Hi there, my name is Achintyan Kaliraj
 
-I'm a junior at Mountain House High School, interested in -
+## I'm a junior at Mountain House High School
 
-• Brain Computer Interfaces<br>
-• Robotics & Autonomy<br>
-• AI/ML<br>
-• Frontend + Backend Development<br>
-• 3D Modeling and Printing<br>
+### Currently Invested In:
 
+-  Brain Computer Interfaces
+-  Robotics & Autonomy
+-  AI/ML
 
+### Achievements
 
-<!--
-**achintyank/achintyank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Lead programmer for MHHS Robotics team 19359E, competing in the VEX V5 Robotics competition
 
-Here are some ideas to get you started:
+-  Hackathon Competitor, notable events including
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -  Mountain Hacks 2024 & 2025 - "Most Impactful Hack" Winner (both years)
+  -  2025 NASA Space Apps Challenge - Global Nominee
+  -  East Bay Hacks - 5th place (Runner Up)
 
+-  SkillsUSA California Medalist
 
+  -  2nd @ states & regionals for the Computer Programming event
+  -  1st @ regionals, qualifying for states for the Internetworking event
+  -  
+-  2x TSA Nationals Qualifier
+
+  -  Software Development - 1st place
+  -  Video Game Design - 1st place
+  -  Manufacturing Prototype 2nd place
+
+### Contact
+  
+Reach me at achintyan.kaliraj@gmail.com
