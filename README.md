@@ -1,6 +1,6 @@
-## Hi there, my name is Achintyan Kaliraj
+# Hi there, my name is Achintyan Kaliraj
 
-I'm a junior at Mountain House High School, interested in -
+## I'm a junior at Mountain House High School, interested in -
 
 • Brain Computer Interfaces<br>
 • Robotics & Autonomy<br>
