@@ -14,20 +14,20 @@ I'm a junior at Mountain House High School
 
 -  Hackathon Competitor, notable events including
 
-  -  Mountain Hacks 2024 & 2025 - "Most Impactful Hack" Winner (both years)
-  -  2025 NASA Space Apps Challenge - Global Nominee
-  -  East Bay Hacks - 5th place (Runner Up)
+      -  Mountain Hacks 2024 & 2025 - "Most Impactful Hack" Winner (both years)
+      -  2025 NASA Space Apps Challenge - Global Nominee
+      -  East Bay Hacks - 5th place (Runner Up)
 
 -  SkillsUSA California Medalist
 
-  -  2nd @ states & regionals for the Computer Programming event
-  -  1st @ regionals, qualifying for states for the Internetworking event
-  -  
+      -  2nd @ states & regionals for the Computer Programming event
+      -  1st @ regionals, qualifying for states for the Internetworking event
+  
 -  2x TSA Nationals Qualifier
 
-  -  Software Development - 1st place (Nationals Qualifier)
-  -  Video Game Design - 1st place (Nationals Qualifier)
-  -  Manufacturing Prototype 2nd place
+      -  Software Development - 1st place (Nationals Qualifier)
+      -  Video Game Design - 1st place (Nationals Qualifier)
+      -  Manufacturing Prototype 2nd place
 
 ## Contact
   
