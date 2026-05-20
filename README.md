@@ -1,14 +1,14 @@
 # Hi there, my name is Achintyan Kaliraj
 
-## I'm a junior at Mountain House High School
+#I'm a junior at Mountain House High School
 
-### Currently Invested In:
+## Currently Invested In:
 
 -  Brain Computer Interfaces
 -  Robotics & Autonomy
 -  AI/ML
 
-### Achievements
+## Achievements
 
 -  Lead programmer for MHHS Robotics team 19359E, competing in the VEX V5 Robotics competition
 
@@ -29,6 +29,6 @@
   -  Video Game Design - 1st place
   -  Manufacturing Prototype 2nd place
 
-### Contact
+## Contact
   
 Reach me at achintyan.kaliraj@gmail.com
