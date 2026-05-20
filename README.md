@@ -1,7 +1,12 @@
 ## Hi there, my name is Achintyan Kaliraj
 
-# I'm a junior at Mountain House High School, currently interested and working on -
+I'm a junior at Mountain House High School, interested in -
 
+• Brain Computer Interfaces
+• Robotics & Autonomy
+• AI/ML
+• Frontend + Backend Development
+• 3D Modeling and Printing
 
 
 <!--
