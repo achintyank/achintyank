@@ -1,22 +1,18 @@
 # Hi there, my name is Achintyan Kaliraj
 
-I'm a junior at Mountain House High School
+I'm a senior at Mountain House High School
 
 ## Currently Invested In:
 
 -  Brain Computer Interfaces
 -  Robotics & Autonomy
--  AI/ML
+-  Manim!
 
 ## Achievements
 
--  Lead programmer for MHHS Robotics team 19359E, competing in the VEX V5 Robotics competition
+-  Lead programmer for MHHS Robotics team 19359S, competing in the VEX V5 Robotics competition
 
--  Hackathon Competitor, notable events including
-
-      -  Mountain Hacks 2024 & 2025 - "Most Impactful Hack" Winner (both years)
-      -  2025 NASA Space Apps Challenge - Global Nominee
-      -  East Bay Hacks - 5th place (Runner Up)
+-  Hackathon Competitor, have won & lost a fair share of them
 
 -  SkillsUSA California Medalist
 
@@ -25,8 +21,8 @@ I'm a junior at Mountain House High School
   
 -  2x TSA Nationals Qualifier
 
-      -  Software Development - 1st place (Nationals Qualifier)
-      -  Video Game Design - 1st place (Nationals Qualifier)
+      -  Software Development - 1st place (Nationals Qualifying)
+      -  Video Game Design - 1st place (Nationals Qualifying)
       -  Manufacturing Prototype 2nd place
 
 ## Contact
