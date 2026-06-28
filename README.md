@@ -23,7 +23,7 @@ I'm a senior at Mountain House High School
 
       -  Software Development - 1st place (Nationals Qualifying)
       -  Video Game Design - 1st place (Nationals Qualifying)
-      -  Manufacturing Prototype 2nd place
+      -  Manufacturing Prototype - 2nd place
 
 ## Contact
   
