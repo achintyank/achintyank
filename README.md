@@ -4,9 +4,9 @@ I'm a senior at Mountain House High School
 
 ## Currently Invested In:
 
--  Brain Computer Interfaces
--  Robotics & Autonomy
--  Manim!
+- Mech Interp
+-  Robotics
+-  Manim
 
 ## Achievements
 
